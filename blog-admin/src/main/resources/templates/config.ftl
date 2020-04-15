@@ -92,7 +92,7 @@
                                         <label class="control-label col-md-3 col-sm-3 col-xs-12" for="copyright">版权信息
                                             <i class="fa fa-question-circle" title="网站版权信息"></i> </label>
                                         <div class="col-md-6 col-sm-6 col-xs-12">
-                                            <input type="text" class="form-control col-md-7 col-xs-12" name="copyright" id="copyright" placeholder="例如：Copyright &copy; ${.now?string("yyyy")} zhyd.me All Rights Reserved"/>
+                                            <input type="text" class="form-control col-md-7 col-xs-12" name="copyright" id="copyright" placeholder="例如：Copyright &copy; ${.now?string("yyyy")} phoenix All Rights Reserved"/>
                                         </div>
                                     </div>
                                     <div class="item form-group">

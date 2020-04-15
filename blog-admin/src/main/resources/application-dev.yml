@@ -51,7 +51,7 @@ spring:
 # logging settings
 logging:
   path: /var/tmp/website-blog-admin
-####################################自定义配置##########################################
+
 app:
     # 是否启用kaptcha验证码
     enableKaptcha: false
@@ -63,4 +63,3 @@ app:
         loginUrl: "/passport/login/"
         successUrl: "/"
         unauthorizedUrl: "/error/403"
-####################################自定义配置##########################################

@@ -16,7 +16,7 @@ server:
 # SPRING PROFILES
 spring:
     profiles:
-        active: '@profileActive@'
+        active: @profileActive@
     application:
         name: blog-admin
     freemarker:
