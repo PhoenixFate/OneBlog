@@ -1,7 +1,7 @@
 # Server settings
 server:
   tomcat:
-    basedir: /var/tmp/website-blog-web
+    basedir: ./website-blog-web
 # SPRING PROFILES
 spring:
   profiles:
@@ -50,7 +50,7 @@ spring:
 
 # logging settings
 logging:
-  path: /var/tmp/website-blog-web
+  path: ./website-blog-web
 
 # braum过滤器，用于过滤恶意请求
 braum:
